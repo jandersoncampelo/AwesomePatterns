@@ -1,4 +1,4 @@
-namespace FactoryMethod.Transports.Factories;
+namespace FactoryMethod.Transports;
 
 public class TruckFactory : TransportFactory
 {
